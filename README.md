@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MuhammadAmin Ibrohimov
-- 👀 I’m interested in Java developer
+- 👀 I’m interested in Java developing
 - 🌱 I’m currently learning Spring boot
 - 📫 How to reach me
 - My email: nsaibot987@gmail.com
